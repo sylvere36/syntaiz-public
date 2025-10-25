@@ -15,7 +15,7 @@ Ce projet est une application Django conçue pour ....
 ## Installation
 
 ```bash
-git clone https://github.com/syntaiz/syntaiz.django.git
+git clone https://github.com/sylvere36/syntaiz-public.git
 cd syntaiz.django
 python -m venv venv
 source venv/bin/activate
