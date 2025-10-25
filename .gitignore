@@ -1,0 +1,45 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+media/
+staticfiles/
+.env
+*.log
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Virtualenv
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# Migrations
+*/migrations/*.pyc
+*/migrations/__pycache__/
+# */migrations/*.py
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+.pyre/
